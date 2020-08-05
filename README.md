@@ -1,7 +1,7 @@
 # Api-Movies
 
 Esta aplicación web nos ayuda hacer busquedas de películas y series, 
-el funcionamiento es gracias a que consumimos datos a través de una Api 
+el funcionamiento es porque consumimos datos a través de una Api que
 nos brinda toda la información que necesitamos.
 
 la manera que consumimos esta Api es utilizando AJAX con Fetch Javascript,
